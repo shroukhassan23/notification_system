@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087112296673",
+    "project_id": "jupiter-9e44a",
+    "storage_bucket": "jupiter-9e44a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087112296673:android:1e101fd6f40bae1f8b1fa0",
+        "android_client_info": {
+          "package_name": "com.example.jupiter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDENiY61Qi5VbFmkpUoGcDxycRmbB9eBL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

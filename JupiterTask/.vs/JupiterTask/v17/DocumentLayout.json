@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\JupiterTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\core\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\services\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\services\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\services\\ideviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\repositories\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\repositories\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\repositories\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\repositories\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\repositories\\notificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\repositories\\notificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\core\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\core\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\migrations\\20260305215140_addnotificationdevicefks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\migrations\\20260305215140_addnotificationdevicefks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\core\\entities\\notificationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\core\\entities\\notificationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\infrastructure\\repositories\\inotificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\infrastructure\\repositories\\inotificationlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\jupitertask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\jupitertask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\migrations\\20260303212644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\migrations\\20260303212644_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|f:\\jupitertask\\jupitertask\\migrations\\20260305214023_addnotificationlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6524DA10-8553-4E9F-8BB1-2993BAE93EE3}|JupiterTask\\JupiterTask.csproj|solutionrelative:jupitertask\\migrations\\20260305214023_addnotificationlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Services\\INotificationService.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Services\\INotificationService.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Services\\INotificationService.cs",
+              "RelativeToolTip": "JupiterTask\\Services\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:37:50.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Services\\NotificationService.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Services\\NotificationService.cs",
+              "RelativeToolTip": "JupiterTask\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:38:48.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:12:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Program.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Program.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Program.cs",
+              "RelativeToolTip": "JupiterTask\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:25:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Core\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Core\\Entities\\Notification.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Core\\Entities\\Notification.cs",
+              "RelativeToolTip": "JupiterTask\\Core\\Entities\\Notification.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:53:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Services\\DeviceService.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Services\\DeviceService.cs",
+              "RelativeToolTip": "JupiterTask\\Services\\DeviceService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwBUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:06:35.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:45:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationLogRepository.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Repositories\\NotificationLogRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:34:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Repositories\\INotificationRepository.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\INotificationRepository.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Repositories\\INotificationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:30:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Repositories\\NotificationRepository.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\NotificationRepository.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Repositories\\NotificationRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:33:38.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Repositories\\IDeviceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:44:42.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDeviceService.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Services\\IDeviceService.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Services\\IDeviceService.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Services\\IDeviceService.cs",
+              "RelativeToolTip": "JupiterTask\\Services\\IDeviceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:05:45.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Controllers\\NotificationController.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "JupiterTask\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:42:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Device.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Core\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Core\\Entities\\Device.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Core\\Entities\\Device.cs",
+              "RelativeToolTip": "JupiterTask\\Core\\Entities\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:58:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Controllers\\DeviceController.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "JupiterTask\\Controllers\\DeviceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:07:21.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260305215140_AddNotificationDeviceFKs.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Migrations\\20260305215140_AddNotificationDeviceFKs.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Migrations\\20260305215140_AddNotificationDeviceFKs.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Migrations\\20260305215140_AddNotificationDeviceFKs.cs",
+              "RelativeToolTip": "JupiterTask\\Migrations\\20260305215140_AddNotificationDeviceFKs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:51:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260305214023_AddNotificationLogs.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Migrations\\20260305214023_AddNotificationLogs.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Migrations\\20260305214023_AddNotificationLogs.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Migrations\\20260305214023_AddNotificationLogs.cs",
+              "RelativeToolTip": "JupiterTask\\Migrations\\20260305214023_AddNotificationLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:40:24.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "INotificationLogRepository.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\INotificationLogRepository.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Infrastructure\\Repositories\\INotificationLogRepository.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Infrastructure\\Repositories\\INotificationLogRepository.cs",
+              "RelativeToolTip": "JupiterTask\\Infrastructure\\Repositories\\INotificationLogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:27:34.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotificationLog.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Core\\Entities\\NotificationLog.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Core\\Entities\\NotificationLog.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Core\\Entities\\NotificationLog.cs",
+              "RelativeToolTip": "JupiterTask\\Core\\Entities\\NotificationLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T21:21:07.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JupiterTask.csproj",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\JupiterTask.csproj",
+              "RelativeDocumentMoniker": "JupiterTask\\JupiterTask.csproj",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\JupiterTask.csproj",
+              "RelativeToolTip": "JupiterTask\\JupiterTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T19:51:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JupiterTask\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JupiterTask\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T14:28:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\appsettings.json",
+              "RelativeDocumentMoniker": "JupiterTask\\appsettings.json",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\appsettings.json",
+              "RelativeToolTip": "JupiterTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T21:20:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260303212644_InitialCreate.cs",
+              "DocumentMoniker": "F:\\JupiterTask\\JupiterTask\\Migrations\\20260303212644_InitialCreate.cs",
+              "RelativeDocumentMoniker": "JupiterTask\\Migrations\\20260303212644_InitialCreate.cs",
+              "ToolTip": "F:\\JupiterTask\\JupiterTask\\Migrations\\20260303212644_InitialCreate.cs",
+              "RelativeToolTip": "JupiterTask\\Migrations\\20260303212644_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:26:45.144Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

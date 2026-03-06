@@ -1,0 +1,13 @@
+<div>
+  <h2>Send Notification</h2>
+  <input type="text" placeholder="Title" [(ngModel)]="title" />
+  <input type="text" placeholder="Body" [(ngModel)]="body" />
+  <button (click)="send()">Send Notification</button>
+</div>
+
+<div>
+  <h3>All Notifications</h3>
+  <ul>
+    <li *ngFor="let n of notifications">{{ n.title }} - {{ n.body }}</li>
+  </ul>
+</div>

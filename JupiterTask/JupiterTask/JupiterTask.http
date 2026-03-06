@@ -1,0 +1,6 @@
+@JupiterTask_HostAddress = http://localhost:5125
+
+GET {{JupiterTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
