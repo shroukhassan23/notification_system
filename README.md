@@ -129,10 +129,11 @@ FirebaseApp.Create(new AppOptions()
 6. Register services in `Program.cs`:
 
 ```csharp
-builder.Services.AddScoped();
-builder.Services.AddScoped();
-builder.Services.AddScoped();
-builder.Services.AddScoped();
+builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
+builder.Services.AddScoped<INotificationLogRepository, NotificationLogRepository>();
+builder.Services.AddScoped<INotificationService, NotificationService>();
+builder.Services.AddScoped<IDeviceRepository, DeviceRepository>();
+builder.Services.AddScoped<IDeviceService, DeviceService>();
 builder.Services.AddDbContext(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 ```
