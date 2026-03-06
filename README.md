@@ -93,8 +93,137 @@ The system is structured using **N-Tier Architecture** in the backend and **MVVM
 ### Backend
 
 1. Open backend project in Visual Studio (VS 2022 recommended).
+
 2. Update `appsettings.json` connection string:
+
 ```json
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=JupiterTaskDb;Trusted_Connection=True;TrustServerCertificate=True;"
 }
+```
+
+3. Install required NuGet packages:
+
+```powershell
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+Install-Package FirebaseAdmin
+```
+
+4. Apply database migrations:
+
+```powershell
+Add-Migration InitialCreate
+Update-Database
+```
+
+5. Place `firebase-service-account.json` at the project root and configure in `Program.cs`:
+
+```csharp
+FirebaseApp.Create(new AppOptions()
+{
+    Credential = GoogleCredential.FromFile("firebase-service-account.json")
+});
+```
+
+6. Register services in `Program.cs`:
+
+```csharp
+builder.Services.AddScoped();
+builder.Services.AddScoped();
+builder.Services.AddScoped();
+builder.Services.AddScoped();
+builder.Services.AddDbContext(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+```
+
+7. Run the project. Swagger UI will be available at:
+
+```
+https://localhost:5125/swagger/index.html
+```
+
+---
+
+### Angular Admin Panel
+
+1. Open the Angular folder in VS Code.
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Update the API URL in `notification.service.ts`:
+
+```typescript
+const apiUrl = 'https://localhost:5125/api/Notification';
+```
+
+4. Run the project:
+
+```bash
+ng serve
+```
+
+The Admin Panel will be available at:
+
+```
+http://localhost:4200/
+```
+
+---
+
+### Flutter Mobile App
+
+1. Open the Flutter folder in VS Code or Android Studio.
+
+2. Install dependencies:
+
+```bash
+flutter pub get
+```
+
+3. Setup Firebase:
+   - Place `google-services.json` in the Android folder
+   - Place `GoogleService-Info.plist` in the iOS folder
+   - Initialize Firebase in `main.dart`:
+
+```dart
+await Firebase.initializeApp();
+```
+
+4. Initialize `LocalNotificationService` in `main.dart`.
+
+5. Update the API URL in `api_service.dart`:
+
+```dart
+final url = Uri.parse('https://192.168.0.105:5125/api/Notification');
+```
+
+6. Run the app:
+
+```bash
+flutter run
+```
+
+---
+
+## How It Works
+
+1. The Flutter app retrieves its **FCM token** on launch and registers it with the backend via `POST /api/Device/register`
+2. The admin opens the Angular panel and sends a notification with a title and body
+3. The Angular panel calls `POST /api/Notification/send` on the backend
+4. The backend saves the notification to **SQL Server** and sends it to all registered devices via **Firebase Admin SDK**
+5. The Flutter app receives the notification through **Firebase Messaging** and displays it via **local notifications**
+6. The Flutter app fetches the full notification history from the backend and displays it in a list
+
+---
+
+## Notes
+
+- Make sure **SQL Server Express** is installed and running before starting the backend
+- The Flutter app and the backend must be on the **same network** for API calls to work (`192.168.x.x`)
+- FCM tokens are managed dynamically by Flutter and re-registered on each app launch
+- The backend broadcasts notifications to **all registered devices**
